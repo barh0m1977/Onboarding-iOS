@@ -6,7 +6,7 @@ Drop it into any app to get an animated, swipeable-feeling (button-driven) onboa
 
 ## Demo
 
-<video src="./Demo.mov" controls width="360"></video>
+<video src="Demo.mov" controls width="360"></video>
 
 ## Features
 
